@@ -1,0 +1,7 @@
+{
+  "name": "SuperCompress AI",
+  "description": "A professional-grade video compression tool powered by AI to optimize your videos for 999MB limits while maintaining peak visual quality. Uses FFmpeg.wasm for client-side processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
